@@ -1,6 +1,6 @@
 # Introduction to Deep Learning
 
-Welcome to **Introduction to Deep Learning**! This repository is designed to serve as a comprehensive guide to the fundamental concepts and techniques in deep learning. Here, you will find tutorials, code examples, and resources that cover the basics and core areas of deep learning.
+Bienvenido a **Introduccion al Deep Learning**! Este repositorio es el 
 
 ## Table of Contents
 
